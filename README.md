@@ -191,6 +191,3 @@ Feedstock Maintainers
 * [@maxnoe](https://github.com/maxnoe/)
 * [@natthan-pigoux](https://github.com/natthan-pigoux/)
 
-
-<!-- dummy commit to enable rerendering -->
-
